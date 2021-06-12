@@ -1,8 +1,19 @@
 {
-  "coupons": [
-    {
-      "id": 0,
-      "name": ""
-    }
-  ]
+    "coupons": [
+        {
+            "id": 0,
+            "name": "Gemütliches Geburtstags Grillen",
+            "redeemed": true
+        },
+        {
+            "id": 1,
+            "name": "Eis auf dem Nachhause Weg",
+            "redeemed": false
+        },
+        {
+            "id": 2,
+            "name": "In ein gemütliches Café setzen",
+            "redeemed": false
+        }
+    ]
 }
