@@ -3,3 +3,4 @@
 .env
 tmp/
 .DS_STORE
+data.json
